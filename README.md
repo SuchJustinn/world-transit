@@ -1,2 +1,4 @@
 # world-transit
-Minecraft plugin; enables multiple worlds and easy transportation between them.
+
+
+This plugin allows for the handling of multiple worlds within a SpongeForge Minecraft server, and facilitates easy transportation methods between them.
